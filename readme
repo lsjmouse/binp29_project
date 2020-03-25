@@ -1,0 +1,3 @@
+run the r script in r or r studio to plot the gc-content
+two packages are required: ggplot2 and seqinr
+there are two example genome fasta files for testing the plot function.
